@@ -1,0 +1,52 @@
+[
+  {
+    "section": "furshetmenu",
+    "sku_count": 23,
+    "price_min": 950.0,
+    "price_median": 1400.0,
+    "price_max": 1900.0,
+    "appetite_score_avg": 5.77,
+    "appetite_score_p25": 5.24,
+    "appetite_score_p75": 6.86
+  },
+  {
+    "section": "hot",
+    "sku_count": 37,
+    "price_min": 420.0,
+    "price_median": 1200.0,
+    "price_max": 2950.0,
+    "appetite_score_avg": 6.17,
+    "appetite_score_p25": 5.66,
+    "appetite_score_p75": 6.75
+  },
+  {
+    "section": "zakuski",
+    "sku_count": 35,
+    "price_min": 95.0,
+    "price_median": 210.0,
+    "price_max": 1400.0,
+    "appetite_score_avg": 6.0,
+    "appetite_score_p25": 5.74,
+    "appetite_score_p75": 6.39
+  },
+  {
+    "section": "desert",
+    "sku_count": 25,
+    "price_min": 150.0,
+    "price_median": 150.0,
+    "price_max": 320.0,
+    "appetite_score_avg": 5.39,
+    "appetite_score_p25": 4.63,
+    "appetite_score_p75": 6.38
+  },
+  {
+    "section": "napitki",
+    "sku_count": 19,
+    "price_min": 250.0,
+    "price_median": 350.0,
+    "price_max": 350.0,
+    "appetite_score_avg": 5.5,
+    "appetite_score_p25": 5.14,
+    "appetite_score_p75": 5.93
+  }
+]

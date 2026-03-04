@@ -1,0 +1,1532 @@
+{
+  "furshetmenu": {
+    "totals_all": [
+      2181.0,
+      1132.0,
+      16.55204035,
+      3.4089867,
+      247.95873453,
+      0.0,
+      17.0,
+      10.0
+    ],
+    "totals_recent": [
+      106.0,
+      82.0,
+      37.73584906,
+      2.22641509,
+      179.9245283,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "by_device_all": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          1118.0,
+          763.0,
+          25.04472272,
+          0.0,
+          5.0,
+          10.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          1005.0,
+          334.0,
+          6.26865672,
+          0.0,
+          12.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tablet",
+            "icon_type": "device",
+            "name": "Tablets",
+            "id": "tablet"
+          }
+        ],
+        "metrics": [
+          58.0,
+          35.0,
+          31.03448276,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_device_recent": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          82.0,
+          59.0,
+          36.58536585,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          24.0,
+          23.0,
+          41.66666667,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_path_all": [
+      {
+        "dimensions": [
+          {
+            "name": "/furshetmenu.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          1709.0,
+          781.0,
+          0.0,
+          14.0,
+          6.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/furshetmenu",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          333.0,
+          254.0,
+          0.0,
+          3.0,
+          4.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/furshetmenu",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          81.0,
+          54.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/furshetmenu.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          52.0,
+          48.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/12.05.20172/furshetmenu.html",
+            "favicon": "192.168.1.34"
+          }
+        ],
+        "metrics": [
+          2.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/06.09.2018/furshetmenu.html",
+            "favicon": "127.0.0.1"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/06.12.2022/furshetmenu.html",
+            "favicon": "192.168.0.180"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/09.02.2024/phone/furshetmenu.html",
+            "favicon": "192.168.0.179"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/23.12.2017/furshetmenu.html",
+            "favicon": "192.168.1.41"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "monthly_recent": [
+      {
+        "month": "2025-03",
+        "visits": 28.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-04",
+        "visits": 5.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-05",
+        "visits": 11.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-06",
+        "visits": 9.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-07",
+        "visits": 5.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-08",
+        "visits": 3.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-09",
+        "visits": 5.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-10",
+        "visits": 9.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-11",
+        "visits": 6.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 1.0
+      },
+      {
+        "month": "2025-12",
+        "visits": 14.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-01",
+        "visits": 3.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-02",
+        "visits": 6.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-03",
+        "visits": 2.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      }
+    ]
+  },
+  "hot": {
+    "totals_all": [
+      2680.0,
+      2211.0,
+      17.3880597,
+      3.02238806,
+      162.88320896,
+      0.0,
+      15.0,
+      3.0
+    ],
+    "totals_recent": [
+      57.0,
+      52.0,
+      35.0877193,
+      1.40350877,
+      69.42105263,
+      0.0,
+      2.0,
+      1.0
+    ],
+    "by_device_all": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          1414.0,
+          1205.0,
+          21.57001414,
+          0.0,
+          12.0,
+          3.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          1157.0,
+          923.0,
+          12.53241141,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tablet",
+            "icon_type": "device",
+            "name": "Tablets",
+            "id": "tablet"
+          }
+        ],
+        "metrics": [
+          107.0,
+          81.0,
+          14.95327103,
+          0.0,
+          2.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tv",
+            "icon_type": "device",
+            "name": "TV",
+            "id": "tv"
+          }
+        ],
+        "metrics": [
+          2.0,
+          2.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_device_recent": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          51.0,
+          46.0,
+          31.37254902,
+          0.0,
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          6.0,
+          6.0,
+          66.66666667,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_path_all": [
+      {
+        "dimensions": [
+          {
+            "name": "/hot.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          2487.0,
+          2064.0,
+          0.0,
+          7.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/hot",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          160.0,
+          118.0,
+          0.0,
+          7.0,
+          2.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/hot",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          22.0,
+          22.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/hot-rolls",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          5.0,
+          5.0,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/hot.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          5.0,
+          5.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/19.09.2018/hot.html",
+            "favicon": "127.0.0.1"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "monthly_recent": [
+      {
+        "month": "2025-03",
+        "visits": 4.0,
+        "checkout_begin": 0.0,
+        "forms": 1.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-04",
+        "visits": 6.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-05",
+        "visits": 5.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-06",
+        "visits": 3.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-07",
+        "visits": 4.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 1.0
+      },
+      {
+        "month": "2025-08",
+        "visits": 5.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-09",
+        "visits": 4.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-10",
+        "visits": 7.0,
+        "checkout_begin": 0.0,
+        "forms": 1.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-11",
+        "visits": 4.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-12",
+        "visits": 11.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-01",
+        "visits": 2.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-02",
+        "visits": 2.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      }
+    ]
+  },
+  "zakuski": {
+    "totals_all": [
+      5744.0,
+      4307.0,
+      12.22144847,
+      3.60149721,
+      229.01862813,
+      0.0,
+      25.0,
+      7.0
+    ],
+    "totals_recent": [
+      202.0,
+      174.0,
+      11.88118812,
+      1.86633663,
+      147.95544554,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "by_device_all": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          4018.0,
+          3099.0,
+          14.28571429,
+          0.0,
+          14.0,
+          7.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          1580.0,
+          1116.0,
+          7.21518987,
+          0.0,
+          11.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tablet",
+            "icon_type": "device",
+            "name": "Tablets",
+            "id": "tablet"
+          }
+        ],
+        "metrics": [
+          146.0,
+          92.0,
+          9.5890411,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_device_recent": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          147.0,
+          121.0,
+          12.24489796,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          53.0,
+          51.0,
+          11.32075472,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tablet",
+            "icon_type": "device",
+            "name": "Tablets",
+            "id": "tablet"
+          }
+        ],
+        "metrics": [
+          2.0,
+          2.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_path_all": [
+      {
+        "dimensions": [
+          {
+            "name": "/zakuski.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          4809.0,
+          3548.0,
+          0.0,
+          19.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/zakuski",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          645.0,
+          539.0,
+          0.0,
+          6.0,
+          7.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/zakuski",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          201.0,
+          164.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/zakuski.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          86.0,
+          82.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/09.01.2020/zakuski.html",
+            "favicon": "192.168.1.42"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/17.05.2017-форма3/zakuski.html",
+            "favicon": "192.168.1.34"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/17.12.2018/zakuski.html",
+            "favicon": "192.168.1.41"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "monthly_recent": [
+      {
+        "month": "2025-03",
+        "visits": 27.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-04",
+        "visits": 16.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-05",
+        "visits": 40.0,
+        "checkout_begin": 0.0,
+        "forms": 1.0,
+        "phone_clicks": 1.0
+      },
+      {
+        "month": "2025-06",
+        "visits": 18.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-07",
+        "visits": 8.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-08",
+        "visits": 16.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-09",
+        "visits": 14.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-10",
+        "visits": 21.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-11",
+        "visits": 15.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-12",
+        "visits": 11.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-01",
+        "visits": 6.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-02",
+        "visits": 7.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-03",
+        "visits": 3.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      }
+    ]
+  },
+  "desert": {
+    "totals_all": [
+      2381.0,
+      1958.0,
+      17.13565729,
+      3.35531289,
+      161.07097858,
+      0.0,
+      11.0,
+      2.0
+    ],
+    "totals_recent": [
+      80.0,
+      74.0,
+      17.5,
+      1.475,
+      85.8625,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "by_device_all": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          1592.0,
+          1373.0,
+          20.16331658,
+          0.0,
+          6.0,
+          2.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          729.0,
+          532.0,
+          10.42524005,
+          0.0,
+          5.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tablet",
+            "icon_type": "device",
+            "name": "Tablets",
+            "id": "tablet"
+          }
+        ],
+        "metrics": [
+          59.0,
+          53.0,
+          18.6440678,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tv",
+            "icon_type": "device",
+            "name": "TV",
+            "id": "tv"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_device_recent": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          60.0,
+          55.0,
+          20.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          18.0,
+          17.0,
+          11.11111111,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tablet",
+            "icon_type": "device",
+            "name": "Tablets",
+            "id": "tablet"
+          }
+        ],
+        "metrics": [
+          2.0,
+          2.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_path_all": [
+      {
+        "dimensions": [
+          {
+            "name": "/desert.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          2153.0,
+          1751.0,
+          0.0,
+          6.0,
+          1.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/desert",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          176.0,
+          161.0,
+          0.0,
+          4.0,
+          1.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/desert",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          39.0,
+          37.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/desert.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          11.0,
+          11.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/04.08.2019/desert.html",
+            "favicon": "127.0.0.1"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/29.12.2020/desert.html",
+            "favicon": "127.0.0.1"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "monthly_recent": [
+      {
+        "month": "2025-03",
+        "visits": 12.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-04",
+        "visits": 9.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-05",
+        "visits": 8.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-06",
+        "visits": 8.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-07",
+        "visits": 4.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-08",
+        "visits": 3.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-09",
+        "visits": 4.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-10",
+        "visits": 10.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-11",
+        "visits": 7.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-12",
+        "visits": 5.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-01",
+        "visits": 3.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2026-02",
+        "visits": 7.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      }
+    ]
+  },
+  "napitki": {
+    "totals_all": [
+      261.0,
+      207.0,
+      45.97701149,
+      2.63601533,
+      137.37164751,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "totals_recent": [
+      4.0,
+      4.0,
+      50.0,
+      1.5,
+      9.75,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "by_device_all": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          142.0,
+          117.0,
+          57.04225352,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          83.0,
+          71.0,
+          40.96385542,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "tablet",
+            "icon_type": "device",
+            "name": "Tablets",
+            "id": "tablet"
+          }
+        ],
+        "metrics": [
+          36.0,
+          19.0,
+          13.88888889,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_device_recent": [
+      {
+        "dimensions": [
+          {
+            "icon_id": "desktop",
+            "icon_type": "device",
+            "name": "PC",
+            "id": "desktop"
+          }
+        ],
+        "metrics": [
+          3.0,
+          3.0,
+          66.66666667,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "icon_id": "mobile",
+            "icon_type": "device",
+            "name": "Smartphones",
+            "id": "mobile"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "by_path_all": [
+      {
+        "dimensions": [
+          {
+            "name": "/napitki.html",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          243.0,
+          190.0,
+          0.0,
+          1.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/napitki",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          10.0,
+          10.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/phone/napitki",
+            "favicon": "363363.ru"
+          }
+        ],
+        "metrics": [
+          7.0,
+          7.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "dimensions": [
+          {
+            "name": "/Preview/11.05.2017/napitki.html",
+            "favicon": "192.168.1.34"
+          }
+        ],
+        "metrics": [
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ],
+    "monthly_recent": [
+      {
+        "month": "2025-04",
+        "visits": 1.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-07",
+        "visits": 1.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-09",
+        "visits": 1.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      },
+      {
+        "month": "2025-12",
+        "visits": 1.0,
+        "checkout_begin": 0.0,
+        "forms": 0.0,
+        "phone_clicks": 0.0
+      }
+    ]
+  }
+}
